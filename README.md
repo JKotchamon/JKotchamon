@@ -59,6 +59,9 @@ I have solid knowledge and practical experience with:
 - Exploitation with <img src="https://img.shields.io/badge/-Metasploit-2E2E2E?style=for-the-badge&logo=Hackaday&logoColor=white" />
 - Web application testing using <img src="https://img.shields.io/badge/-Burp%20Suite-F56C2D?style=for-the-badge&logo=Portainer&logoColor=white" />
 - System and network scanning using <img src="https://img.shields.io/badge/-Nmap-0052CC?style=for-the-badge&logo=PowerShell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2E2E2E?style=for-the-badge&logo=Hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-F56C2D?style=for-the-badge&logo=Portainer&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-0052CC?style=for-the-badge&logo=PowerShell&logoColor=white" />
 
 
 
