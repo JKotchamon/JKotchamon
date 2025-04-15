@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hello, I'm Kotchamon 👋
 
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 
-**JKotchamon/JKotchamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 I’m currently studying for a **Master of Cybersecurity**, with a strong passion for threat detection, penetration testing, and security automation.  
+🌱 I’m diving deep into **SOC analysis** and **penetration testing** to enhance my technical and investigative skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🧠 About Me
+
+- 💡 Interested in cybersecurity, SOC operations, threat analysis, and red/blue teaming.
+- 🔍 Currently learning **SIEM**, **attack detection**, **incident response**, and **web exploitation**.
+- 🧰 Hands-on experience with tools like Wireshark, Metasploit, Burp Suite, Nmap, and more.
+- 🐍 Comfortable using **Python scripting** and **Linux CLI** for automation and system tasks.
+
+---
+
+## 🛠️ Skills & Projects
+
+| Skill                                             | Associated Project                                           |
+|--------------------------------------------------|--------------------------------------------------------------|
+| SIEM Implementation and Log Analysis             | [Detection Lab](https://google.com)                          |
+| Network Traffic Monitoring and Attack Detection  | [Detection Lab](https://google.com)                          |
+| Security Automation with Shuffle SOAR            | SOC Automation Lab                                           |
+| Incident Response Planning and Execution         | SOC Automation Lab                                           |
+| Case Management with TheHive                     | SOC Automation Lab                                           |
+| Scripting and Automation for Threat Mitigation   | SOC Automation Lab                                           |
+
+---
+
+## 🌐 Computer Networking
+
+I have solid knowledge and practical experience with:
+- OSI and TCP/IP Models
+- Packet Analysis
+- ARP Protocol
+- IP Addressing and Subnetting
+
+---
+
+## 🔧 Tools
+
+### 🛰️ Network Analysis
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### ⚙️ Offensive Security
+- Exploitation with **Metasploit**
+- Web application testing using **Burp Suite**
+- System and network scanning using **Nmap**
+
+### 🐧 Programming & OS
+- **Python** scripting for automation
+- **Linux Command Line** for system interaction and scripting
+
+---
+
+## 📜 Certifications
+
+- ✅ CompTIA Security+ (SY0-701)  
+- ✅ TryHackMe - Jr Penetration Tester
+
+---
+
+## 📫 Contact Me
+
+Feel free to connect or collaborate!
+
+- 📧 Email: [kotchamon.jk@gmail.com](mailto:kotchamon.jk@gmail.com)
 
