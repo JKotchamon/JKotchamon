@@ -1,11 +1,11 @@
-# Hello, I'm Kotchamon 👋
+# Hello, I'm Kotchamon 👋 
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Jr%20Penetration%20Tester-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</div>
 
 <a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />   <img src="https://img.shields.io/badge/TryHackMe-Jr%20Penetration%20Tester-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-
 </a>
 
 ---
