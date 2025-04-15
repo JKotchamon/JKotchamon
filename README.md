@@ -56,9 +56,11 @@ I have solid knowledge and practical experience with:
 </div>
 
 ### ⚙️ Offensive Security
-- Exploitation with **Metasploit**
-- Web application testing using **Burp Suite**
-- System and network scanning using **Nmap**
+- Exploitation with <img src="https://img.shields.io/badge/-Metasploit-2E2E2E?style=for-the-badge&logo=Hackaday&logoColor=white" />
+- Web application testing using <img src="https://img.shields.io/badge/-Burp%20Suite-F56C2D?style=for-the-badge&logo=Portainer&logoColor=white" />
+- System and network scanning using <img src="https://img.shields.io/badge/-Nmap-0052CC?style=for-the-badge&logo=PowerShell&logoColor=white" />
+
+
 
 ### 🐧 Programming & OS
 - **Python** scripting for automation
