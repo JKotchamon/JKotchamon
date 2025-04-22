@@ -1,7 +1,11 @@
 # Hello, I'm Kotchamon 👋 
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-Jr%20Penetration%20Tester-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <a href="https://www.credly.com/badges/8f43f60a-98fb-4481-be87-8712dd2b431a/public_url">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YEQUSLG7NY.png">
+    <img src="https://img.shields.io/badge/TryHackMe-Jr%20Penetration%20Tester-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
 </div>
 
 <a href="https://linkedin.com">
