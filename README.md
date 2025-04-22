@@ -30,14 +30,14 @@
 
 ## 🛠️ Skills & Projects
 
-| Skill                                             | Associated Project                                           |
-|--------------------------------------------------|--------------------------------------------------------------|
-| Phishing analysis                                | [Knowledge](https://github.com/JKotchamon/Phishing/tree/main)      |
-| Network Traffic Monitoring and Attack Detection  | [Detection Lab](https://google.com)                          |
-| Security Automation with Shuffle SOAR            | SOC Automation Lab                                           |
-| Incident Response Planning and Execution         | SOC Automation Lab                                           |
-| Case Management with TheHive                     | SOC Automation Lab                                           |
-| Scripting and Automation for Threat Mitigation   | SOC Automation Lab                                           |
+| Project                                          | Skills                                               | Link                                                                 |
+|--------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------|
+| Phishing Analysis                                | Email analysis, Header analysis, Attachment analysis                                    | [Link](https://github.com/JKotchamon/Phishing/tree/main)            |
+| Network Traffic Monitoring and Attack Detection  | Detection Lab                                       | [Link](https://google.com)                                          |
+| Security Automation                              | Shuffle SOAR                                        | SOC Automation Lab                                                   |
+| Incident Response                                | Planning and Execution                              | SOC Automation Lab                                                   |
+| Case Management                                  | TheHive                                             | SOC Automation Lab                                                   |
+| Threat Mitigation Automation                     | Scripting and Automation                            | SOC Automation Lab                                                   |
 
 ---
 
