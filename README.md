@@ -32,7 +32,7 @@
 
 | Skill                                             | Associated Project                                           |
 |--------------------------------------------------|--------------------------------------------------------------|
-| Phishing analysis                                | [Knowledge]([https://google.com](https://github.com/JKotchamon/Phishing/))                          |
+| Phishing analysis                                | [Knowledge]([https://github.com/JKotchamon/Phishing/])       |
 | Network Traffic Monitoring and Attack Detection  | [Detection Lab](https://google.com)                          |
 | Security Automation with Shuffle SOAR            | SOC Automation Lab                                           |
 | Incident Response Planning and Execution         | SOC Automation Lab                                           |
