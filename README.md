@@ -33,7 +33,7 @@
 | Project                                          | Skills                                               | Link                                                                 |
 |--------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------|
 | Phishing Analysis                                | Email analysis, Header analysis, Attachment analysis                                    | [Link](https://github.com/JKotchamon/Phishing/tree/main)            |
-| Network Security                                 | Network anylysis, TCPdump, Wireshark, Snort IDS/IPS                                       | [Link](https://google.com)                                          |
+| Network Security                                 | Network anylysis, TCPdump, Wireshark, Snort IDS/IPS                                       | [Link](https://google.com](https://github.com/JKotchamon/Network-Security/tree/main))                                          |
 
 
 ---
