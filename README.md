@@ -33,11 +33,8 @@
 | Project                                          | Skills                                               | Link                                                                 |
 |--------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------|
 | Phishing Analysis                                | Email analysis, Header analysis, Attachment analysis                                    | [Link](https://github.com/JKotchamon/Phishing/tree/main)            |
-| Network Traffic Monitoring and Attack Detection  | Detection Lab                                       | [Link](https://google.com)                                          |
-| Security Automation                              | Shuffle SOAR                                        | SOC Automation Lab                                                   |
-| Incident Response                                | Planning and Execution                              | SOC Automation Lab                                                   |
-| Case Management                                  | TheHive                                             | SOC Automation Lab                                                   |
-| Threat Mitigation Automation                     | Scripting and Automation                            | SOC Automation Lab                                                   |
+| Network Security                                 | Network anylysis, TCPdump, Wireshark, Snort IDS/IPS                                       | [Link](https://google.com)                                          |
+
 
 ---
 
